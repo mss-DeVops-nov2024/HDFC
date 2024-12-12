@@ -1,1 +1,3 @@
 contains string related commands
+
+running java script is very easy......
